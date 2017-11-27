@@ -1,0 +1,175 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body{
+		background-color: #A60811;
+	}
+/*
+	#Title{
+		color: #FFFB4B;
+		text-align: center;
+	}
+*/
+	#mclogo{
+		width:100px;
+	}
+	#heading{
+		padding-top: 20px;
+		margin: auto;
+		width: 90%;
+		border-bottom: white solid 3px;
+		text-align: center;
+		padding-bottom: 40px;
+		margin-bottom: 30px;
+	}
+	#navbar{
+		background-color: #FFCC02;
+		height: 50px;
+		width: 90%;
+		margin: 0 auto;
+		border: solid white 1px;
+	}
+	.navbar{
+		background-color: #FFCC02;
+		height: 50px;
+		width: 90%;
+		margin: 0 auto;
+		border: solid white 1px;
+	}
+	.navbutton{
+		float: left;
+		outline: 1px solid #FFFFFF;
+		margin: 0;
+		margin-left: 0px;
+		width: 25%;
+		text-align: center;
+	}
+	.navbutton:hover{
+		background-color: #A60A11;
+	}
+	#content{
+		background-color: white;
+		margin:0 auto;
+		width:90%;
+		height: 1000px;
+		border: white solid 1px
+	}
+#content2{
+		background-color: white;
+		margin:0 auto;
+		width:90%;
+		height: 1050px;;
+/*		height: 1000px;*/
+		border: white solid 1px;
+	}
+	#burger{
+		width: 100%;
+		height: 500px;
+		background-image: url(images/burger.jpg);
+		background-size: 100% auto;
+		background-position: center;
+		text-align: center;
+		padding-top: 0px;
+	}
+	.jumbotron{
+		color: white;
+		font-size: 100px;
+		margin:0 auto;
+	}
+	.child{
+		display: inline-block;
+		vertical-align: middle;
+		line-height: 200px;
+	}
+	.stuff{
+		text-align: center;
+		color: #A60A11;
+	}
+	.heading{
+		border-bottom: #A60A11 solid 2px;
+		width: 90%;
+		margin: auto;
+		text-align: center;
+		color: #A60911
+	}
+	.thirty{
+		float: left;
+		width: 30%;
+		margin-top: 10px;
+		height: 400px;
+		background-image: url("images/choco.jpg");
+		background-size: contain;
+		outline: white 1px solid;
+	}
+	.seven{
+		float: right;
+		width: 70%;
+		margin-top: 10px;
+		height: 400px;
+		background-image: url("images/nuggies.jpg");
+		background-size: 100%;
+		background-position: center;
+		outline: white 1px solid;
+	}
+	.menu{
+		background-color: black;
+	}
+	.thirtyOne{
+		float: left;
+		width: 30%;
+		margin:0;
+		height: 300px;
+/*
+		background-color: url("images/choco.jpg");
+		background-size: contain;
+*/
+		background-color: black;
+		outline: white 1px solid;
+	}
+	.sevenOne{
+		float: right;
+		width: 70%;
+		margin:0;
+		height: 300px;
+		/*
+		background-color: url("images/choco.jpg");
+		background-size: contain;
+*/
+/*		background-color: yellow;*/
+		background-position: center;
+		outline: white 1px solid;
+		text-align: center;
+		border-top: 1px black solid;
+	}
+#menuitem{
+ margin-top: 20px;
+}
+.item2{
+	width: 100%;
+	height:100%;
+}
+.pricing{
+	margin: auto 0;
+/*	background-color:red;*/
+	height: 100%;
+	padding: 20px;
+	font-size: 20px;
+	font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif"
+}
+.pricing p{
+	line-height: 30px;
+}
+.history{
+	width:90%;
+	margin: 0 auto;
+}
+
+#corporate{
+	width: 100%;
+
+	text-align: center;
+}
+
+.building{
+	width: 1000px;;
+}

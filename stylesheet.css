@@ -51,8 +51,8 @@ body{
 		background-color: white;
 		margin:0 auto;
 		width:90%;
+		border: white solid 1px;
 		height: 1000px;
-		border: white solid 1px
 	}
 	#content2{
 		background-color: white;

@@ -54,7 +54,7 @@ body{
 		height: 1000px;
 		border: white solid 1px
 	}
-#content2{
+	#content2{
 		background-color: white;
 		margin:0 auto;
 		width:90%;
@@ -173,3 +173,11 @@ body{
 .building{
 	width: 1000px;;
 }
+
+	#content3{
+		background-color: white;
+		margin:0 auto;
+		width:90%;
+		height: 1500px;
+		border: white solid 1px
+	}
